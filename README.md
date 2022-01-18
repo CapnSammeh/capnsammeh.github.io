@@ -1,1 +1,0 @@
-# capnsammeh.github.io
