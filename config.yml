@@ -54,8 +54,8 @@ params:
     title: CapnSammeh's Assortment of Thoughts
     subtitle: ""
     imageUrl: "https://github.com/CapnSammeh/capnsammeh.github.io/blob/c5e97e0dac5c13518fc915f7a1f47d5f9d5fbfcf/resources/_gen/images/avataaars.png?raw=true"
-    imageWidth: 130
-    imageHeight: 130
+    imageWidth: 120
+    imageHeight: 120
     imageTitle: my image
     buttons:
       - name: Posts
