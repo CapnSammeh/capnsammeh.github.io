@@ -1,13 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on ExampleSite</title>
+    <title>Tags on CapnSammeh&#39;s Assortment of Thoughts</title>
     <link>https://capnsammeh.github.io/tags/</link>
-    <description>Recent content in Tags on ExampleSite</description>
+    <description>Recent content in Tags on CapnSammeh&#39;s Assortment of Thoughts</description>
     <image>
       <url>https://capnsammeh.github.io/resources/_gen/images/</url>
       <link>https://capnsammeh.github.io/resources/_gen/images/</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://capnsammeh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Jan 2022 09:14:37 +1000</lastBuildDate><atom:link href="https://capnsammeh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apps</title>
+      <link>https://capnsammeh.github.io/tags/apps/</link>
+      <pubDate>Thu, 20 Jan 2022 09:14:37 +1000</pubDate>
+      
+      <guid>https://capnsammeh.github.io/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://capnsammeh.github.io/tags/mac/</link>
+      <pubDate>Thu, 20 Jan 2022 09:14:37 +1000</pubDate>
+      
+      <guid>https://capnsammeh.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>https://capnsammeh.github.io/tags/productivity/</link>
+      <pubDate>Thu, 20 Jan 2022 09:14:37 +1000</pubDate>
+      
+      <guid>https://capnsammeh.github.io/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>useful</title>
+      <link>https://capnsammeh.github.io/tags/useful/</link>
+      <pubDate>Thu, 20 Jan 2022 09:14:37 +1000</pubDate>
+      
+      <guid>https://capnsammeh.github.io/tags/useful/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
