@@ -1,18 +1,15 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+tags: [""]
+draft: true
+description: "Desc Text."
 author: "Me"
-# author: ["Me", "You"] # multiple authors
+
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -21,6 +18,7 @@ searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text

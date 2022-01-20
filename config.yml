@@ -1,5 +1,5 @@
 baseURL: "https://capnsammeh.github.io/"
-title: ExampleSite
+title: CapnSammeh's Assortment of Thoughts
 paginate: 5
 theme: PaperMod
 
@@ -15,10 +15,9 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: CapnSammeh's Assortment of Thoughts
-  description: "ExampleSite description"
+  description: "Ramblings of a Moderately Techncial Fellow"
   keywords: [Blog, Portfolio, PaperMod]
   author: CapnSammeh
-  # author: ["Me", "You"] # multiple authors
   images: ["resources/_gen/images/"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -97,6 +96,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 05
     - identifier: categories
       name: categories
       url: /categories/
