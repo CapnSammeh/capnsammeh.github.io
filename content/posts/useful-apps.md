@@ -36,34 +36,34 @@ Here's the overview section of the document.
 
 # Apps
 ## Cross-Platform Apps
- * 1Password
- * VSCode
+ ### 1Password
+ ### VSCode
  
 ## Mac Apps
- * 1Password
- * Caffeine
- * FileZilla
- * MeetingBar
- * MimeStream
- * Raycast
- * Rocket
- * VSCode
+ ### Caffeine
+ ### FileZilla
+ ### MeetingBar
+ ### MimeStream
+ ### Raycast
+ ### Rocket
 
 ## SetApp Applications
 
 These applications are available via [SetApp](https://setapp.com/):
- * MeetInOne
- * Bartender 4
- * Yoink
- * BusyCal
- * ToothFairy
- * CleanShot X
- * Session
+ ### MeetInOne
+ ### Bartender 4
+ ### Yoink
+ ### BusyCal
+ ### ToothFairy
+ ### CleanShot X
+ ### Session
 
 ## Windows Apps
-
+[ Coming Soon! ]
 ## Android Apps
-
+[ Coming Soon! ]
 # Hardware
+
 ## Physical Peripherals
- * Apple Magic Trackpad 2
+ ### [Apple Magic Trackpad 2](https://www.apple.com/au/shop/product/MJ2R2ZA/A/magic-trackpad-2-silver)
+ What's not to l
